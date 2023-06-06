@@ -1,1 +1,1 @@
-# 05_LinearRegression_miniprojec
+# 05_LinearRegression_miniproject
